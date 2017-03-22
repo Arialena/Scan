@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Scan</string>
+    <string name="app_name">二维码扫描</string>
 
     <string name="scan_failed">Scan failed!</string>
 </resources>
