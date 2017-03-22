@@ -14,7 +14,7 @@
        android:id="@+id/scanBtn"
        android:layout_width="match_parent"
        android:layout_height="44dp"
-       android:text="二维码扫描"
+       android:text="点击扫描"
        android:background="#4052b5"
        android:textColor="#ffffff"/>
 </RelativeLayout>
